@@ -1,14 +1,22 @@
-// import {useState} from 'react-route-dom'
-// import Route from './Features/Routes/Route'
 
-// export default function App() {unction App() {import React from 'react';
 import { useRoutes } from 'react-router-dom';
-import { Route } from './Routes/Route';
+import { Routes } from './Routes/Routes';
+import Nav from './Component/NavBar/Nav';
+import Hero from './Component/Main/Hero';
+import Subbody from './Component/Body/Subbody'
+import Bottom from './Component/Footer/Bottom';
 
 
 
 function App() {
-  return useRoutes(Route);
+  return (
+    <>
+      <Nav/>
+      <Hero/>
+      <Subbody/>
+      <Bottom/>
+    </>
+  )
 }
 
 export default App;

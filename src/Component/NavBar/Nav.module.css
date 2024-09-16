@@ -1,5 +1,49 @@
-.parent{
+.menus{
+   
     display: flex;
     align-items: center;
-    justify-content: center;
+    gap: 10rem;
+    width: 100%;
+    color: white;
+    justify-content:center;
+    background-color: rgb(160, 45, 100)  ; 
+    position: fixed; 
+   
 }
+
+
+
+
+
+
+
+
+.heroImage {
+  padding-left: 100rem;
+  width: 300px;
+  /* height: 50px; */
+  padding-bottom: 100rem; 
+}
+
+
+/* .Photo{
+    justify-content: space-evenly;
+    padding-left: 75rem;
+} */
+
+
+
+
+
+
+/* .main, img{     
+    display: flex;
+    width: 700rex ;
+    height: 400px;
+    padding-left: 20rem;
+    opacity: 1.0;
+} */
+
+
+
+

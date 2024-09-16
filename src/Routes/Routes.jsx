@@ -2,13 +2,13 @@ import React from 'react'
 import Index from '../Features/Index'
 import Layout from '../Features/Layout/Index'
 
-export const Route =[
+export const Routes =[
     {
-        path: "",
+        path: "home",
         element: <Index/>,
         children: [
             {
-                path:"",
+                path:"Lego-home",
                 element: <Layout/>
             }
         ]

@@ -1,0 +1,86 @@
+.subbody{
+    /* padding-left: 30rem; */
+    /* padding: 10rem; */
+    justify-content: space-around;
+    display: flex;
+    gap: 2rem;
+    padding-top: 4rem;
+
+
+}
+
+.subbody img{
+    padding-top: 40reX;
+    padding-left: 10px;
+    width:min-content
+    
+}
+
+.subbody h2{
+    font-family:cursive;
+
+     font-size: 25px;
+     padding-left: 80px;
+     color: rgb(40, 199, 146);
+}
+
+.mentor h2{
+    font-family:cursive;
+    padding-bottom: 2000px;
+    font-size: 26px;
+    padding-left: 80px;
+    color:rgb(40, 199, 146)
+    
+    
+}
+
+.mentor{
+     padding-left: 57rem; 
+     align-items: center;
+     gap: 10rem;
+     justify-content:center;
+     padding-top: 300px ;
+     padding-bottom: 200px;  
+}
+
+
+
+.here{
+    background-color:rgb(99, 194, 35);
+    padding: 10px;
+    color: rgb(249, 249, 224);
+    font-size: large;
+    border-radius: 10px;
+    border-color:rgb(240, 238, 239) ;
+    font-weight: bolder;
+}
+
+.Image3{
+    padding-top: 4rem;
+    height: 400px;
+}
+
+.Image2{
+    padding-top: 4rem;
+    height: 400px;
+
+}
+
+
+
+
+
+.you {
+   background-color: rgb(87, 28, 58);
+   display: flex;
+   align-items: center;
+  /* opacity: 0.9; */
+}
+
+.message{
+    background-color: rgb(216, 113, 163)  ; 
+    color:rgb(57, 56, 56);
+    font-size: 30px;
+    font-family:serif;
+    padding-left: 30rem;
+}

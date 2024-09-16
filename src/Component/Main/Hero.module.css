@@ -1,0 +1,68 @@
+.Welcome{
+    padding-left: 44rem;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    justify-content: space-around;
+    display: row;
+    gap: 260px;
+    width: 100%;
+    color: rgb(246, 114, 81);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+
+
+
+.tagline{
+  color: rgb(249, 246, 246);
+  font-style: oblique;
+  padding-left: 100px;
+  
+}
+
+.main{
+     background-color: rgb(76, 8, 50); 
+    /* background-position: url('../../Assets/Hero/HeroImage2.jpeg');
+    background-size: cover;
+    background-blend-mode: multiply; */
+}  
+
+/* .Image{
+    padding-left: 69rem;
+    height: 60rem;
+
+} */
+
+/* .parent{
+         position: relative;
+         background-position: url('../../Assets/Hero/HeroImage2.jpeg'); */
+
+
+
+.compmessage{
+    font-size: 20px;
+     color: rgb(210, 207, 207);
+    padding-top: 1rem;
+    padding-bottom: 1rem; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    opacity: 1.1;
+    background-color: rgb(160, 65, 111);
+    border-radius: 1000rem;
+    margin-left: 35rem;
+    margin-right: 35rem;
+}
+  
+.getStarted{
+    background-color:rgb(99, 194, 35);
+    padding: 10px;
+    color: rgb(249, 249, 224);
+    font-size: large;
+    border-radius: 10px;
+    border-color:rgb(128, 240, 52) ;
+    font-weight: bolder;
+
+}
+
+
